@@ -69,7 +69,7 @@ Calculates the factorial of a given integer n (0 <= n <= 100).
 
 **Usage Example:**
 
-```
+```java
 try {
     int n = 10;
     BigInteger factorialResult = factorial(n);
